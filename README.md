@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nazhmidenov Ersultan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Operating Systems, Emulators and Databases
+- 🌱 I’m currently learning Go, C, PostgreSQL, Linux
+- 💞️ I’m looking to collaborate on [blank]
+- 📫 How to reach me [blank]
 
 <!---
 Rehart-Kcalb/Rehart-Kcalb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
